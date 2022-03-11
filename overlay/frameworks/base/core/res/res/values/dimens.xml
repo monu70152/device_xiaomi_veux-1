@@ -21,6 +21,6 @@
 
     <dimen name="rounded_corner_content_padding">47.0px</dimen>
     <dimen name="rounded_corner_radius">102.0px</dimen>
-    <dimen name="status_bar_height_portrait">110.0px</dimen>
+    <dimen name="status_bar_height_portrait">32.0px</dimen>
 
 </resources>
